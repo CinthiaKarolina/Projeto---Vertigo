@@ -7,5 +7,10 @@
 
 header {
     background-image: url(./Imagens/bg\ -\ mob.png);
-    background-size: cover;
+    background-size: cover; 
+    height: 8.375rem;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
